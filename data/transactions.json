@@ -1,0 +1,14 @@
+[
+  {
+    "type": "income",
+    "amount": 100,
+    "category": "Salario",
+    "description": "Pago mensual"
+  },
+  {
+    "type": "expense",
+    "amount": 50,
+    "category": "Comida",
+    "description": "Almuerzo"
+  }
+]
