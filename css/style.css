@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label, input, select {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#balance {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+.text-success {
+    color: green;
+}
+
+.text-danger {
+    color: red;
+}
